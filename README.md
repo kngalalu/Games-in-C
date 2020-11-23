@@ -1,1 +1,1 @@
-# Games-in-C
+# Snake Game-in-C
